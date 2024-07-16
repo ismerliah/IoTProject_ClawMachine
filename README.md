@@ -6,6 +6,7 @@
 * [Feature](#feature)
 * [Technologies](#technologies)
 * [Architecture](#architecture)
+* [Result](#result)
 
 ## General info
 
@@ -22,3 +23,6 @@ Project is created with:
 * Button switch module x 6
 ## Architecture
 ![4](https://github.com/ismerliah/IoTProject_ClawMachine/assets/114804208/a09997d6-22f5-4d47-9a5d-cfdbcc695941)
+
+## Result
+https://github.com/user-attachments/assets/c96e09e7-8a42-4d88-94d9-828d5ba8658c
